@@ -1,0 +1,29 @@
+h1{
+    color:#0657d0;
+}
+h2{
+    color:hsl(9, 69%, 52%);
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color:rgb(188, 95, 212);
+    font-size: 25px;
+}
+
+#demand-container{
+    color:greenyellow;
+    border: 3px solid  plum;
+}
+
+#creative-art-container{
+    color:#4fb376;
+    border:7px dotted black;
+    font-size: 35px;
+} 
+
+h6{
+    text-align: end;
+    color:black;
+}
