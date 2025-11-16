@@ -1,0 +1,32 @@
+h1{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+}
+#header1{
+    color: blue;
+}
+
+#Why-Java-Training-header {
+     color: blueviolet;
+}
+
+h3{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-size: 30px;
+}
+img{
+    width: 250px;
+}
+
+a{
+    font-size: 30px;
+    color:gray;
+}
+
+.header3{
+    color:gray ;
+    font-size: 30px;
+    text-align: center;
+}
