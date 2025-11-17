@@ -1,0 +1,26 @@
+#searching-for-a-job{
+          /*  background-image: url('https://preview.colorlib.com/theme/joblab/assets/img/hero/h1_hero.jpg.webp'); */
+          background-image: url('https://preview.colorlib.com/theme/joblab/assets/img/gallery/help.jpg.webp');
+          background-repeat:no-repeat;
+          border: 5px solid yellowgreen;
+          background-size: cover;
+          background-position:center center;
+          background-attachment: fixed;
+}
+
+#Searching-for-a-job img{
+    height: 500px;
+
+}
+
+#todays-talent{
+    background-image: url('https://preview.colorlib.com/theme/consolution/images/bg_1.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    height: 500px;
+    text-align: center;
+    color: aliceblue;
+
+}
