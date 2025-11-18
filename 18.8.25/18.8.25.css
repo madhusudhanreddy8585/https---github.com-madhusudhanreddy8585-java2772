@@ -1,0 +1,38 @@
+#container {
+    height: 100px;
+    width: 400px;
+    border: 3px solid orange;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px 40px 5px 50px;
+}
+#container2 {
+       background-color: lightblue;
+       box-shadow: 0 4px  20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       width: 400px;
+       border: 2px solid rgb(218, 220, 224);
+       padding: 40px;
+       margin: 30px;
+}
+h2 {
+   text-shadow: 2px 2px 5px orange;
+}
+#card {
+    box-shadow: 0 4px  20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 400px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+#card img{
+    width: 400px;
+}
+#banner {
+    background-image: url('https://preview.colorlib.com/theme/allfood/assets/img/hero/h1_hero.png.webp');
+    box-shadow: 0 4px  20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 100px;
+    font-size: 30px;
+
+}
