@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+#we-guide-projects {
+    padding: 70px 10px;
+}
+#Customer-Satisfaction, #we-guide-projects-organizations {
+    float: left;
+    width:50%;
+}
+#Customer-Satisfaction {
+   text-align: center;  
+}
+#Customer-Satisfaction img {
+    margin: auto;
+    width: 65%;
+}
+
+#we-guide-projects-organizations h1 {
+    font-size: 30px;
+}
+
+#we-guide-projects-organizations p {
+    color: #6d6d6d;
+}
+
+#no-of-customers {
+    margin-bottom: 35px;
+}
+
+#we-guide-projects-organizations a{
+    border: 2px solid #10c98f;
+    color: #10c98f;
+    padding: 14px 18px;
+    font-weight: bold;
+}
+
+br {
+    clear: left;
+}
+
+#why-choose-us {
+    text-align: center;
+    margin-bottom: 80px;
+}
+hr {
+   text-align: center;
+   width: 25%;
+   background-color: rgb(16, 201, 143);
+   height: 5px;
+   border: none;
+}
+#services {
+    padding: 30px 100px;
+    height: 150px;
+
+}
+.service {
+    float: left;
+    width: 17%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 0px 20px;
+    margin: 0px 20px;
+}
+.service p {
+    font-size: 18px;
+    line-height: 19px;
+    text-align: justify;
+}
