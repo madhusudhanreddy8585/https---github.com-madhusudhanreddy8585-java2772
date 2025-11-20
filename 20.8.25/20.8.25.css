@@ -1,0 +1,52 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#parent-container {
+    display: flex;
+   /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+    justify-content: center;
+    border: 3px solid greenyellow;
+    height: 500px;
+    align-items: center;
+   /* column-gap: 20px;
+     row-gap:20px;*/
+     gap: 20px;
+}
+
+.child-container img{
+    width: 100%;
+}
+.child-container{
+    width: 25%;
+    border: 1.5px solid greenyellow;
+}
+
+#first {
+    order: 3;
+}
+#second {
+    order: 1;
+}
+#third {
+    order: 2;
+}
+
+#container2{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.child-container2{
+    background-color: aquamarine;
+    padding: 100px;
+    border: 2px solid black;
+}
+#box1{
+    flex: 0.6;
+}
+#box2{
+    flex: 0.4;
+}
