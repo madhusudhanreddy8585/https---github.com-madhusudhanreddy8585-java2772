@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+#meetings {
+    display: flex;
+    flex-wrap: wrap;
+}
+.meeting {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0.19);
+    padding: 15px;
+    width: 30%;
+}
+.meeting th{
+    text-align: left;
+}
+.meeting th, .meeting td {
+    padding: 8px 12px;
+}
+
